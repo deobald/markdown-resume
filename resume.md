@@ -1,49 +1,79 @@
-Sonya Sawtelle
+Steven Deobald
 ======
 
-#### Data enthusiast with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+#### [ [www.deobald.ca](https://www.deobald.ca) ] . [ steven@deobald.ca ] . [ +1 707 336 2253 ] . [ `@deobald` ]
 
+Experience
+----------
+
+**Writer, XTDB Ltd.** (2020-present, Remote)
+
+- _Market discovery, open source product prioritization_
+
+**Volunteer, Pariyatti** (2019-present, Remote)
+
+- _Open source project management, software architecture R&D_
+
+**Founder, Nilenso Software** (2012-2018, India)
+
+- _Marketing, branding, sales, recruitment, product management, project management, mentorship_
+- Wrote and open-sourced first international worker co-operative constitution in India
+- Drafted and implemented menstrual leave policy
+
+**Product Head, C42 Engineering** (2011-2012, India)
+
+- _Product leadership, mentorship_
+- Designed and built [rubymonk.com](https://rubymonk.com)
+
+**Tech Lead, DRW Holdings** (2008-2011, USA)
+
+- _Systems architecture in Java, JRuby, and Clojure_
+
+**Senior Developer, ThoughtWorks** (2005-2008, Canada/USA/UK/India)
+
+- _Development in C#, Java, and Ruby as Tech Lead, mentorship, architecture, business analysis_
+
+**Senior Developer, Adxstudio** (2004-2005, Canada)
+
+- _Systems design and implementation in C# and .NET_
 
 Education
 ---------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
 
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
+**B.Sc.Hons.Coop. in Computer Science, University of Regina**
 
-**B.S. in Physics, Indiana University** (2008-2011)
+- Graduated with Honours
+- Participated in five work terms across government, private sector, and cooperative sector
+- Held Top Secret Canadian government security clearance
 
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
+Activities and Interests
+------------------------
 
-**MOOCs** (ongoing)
-
-- Machine Learning (Stanford, Andrew Ng)
-
-Experience
----------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
-
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
-
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
-
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
-
-Skills
-------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
-
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
-
-Awards
-------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+- Vipassana Meditation and Research
+- Open source software development
+- Bicycling, running, swimming, yoga, skiing, kayaking, canoeing, backpacking, Kempo
+- Off-grid housing, sustainable construction, waste management
 
 Projects
 --------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
 
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+- **Pariyatti Digital Library and Mobile App**
+  (ongoing open source, [github.com/pariyatti](https://github.com/pariyatti/))
+
+- **Vipassana for Hackers**
+  (ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
+
+- **Ethical Software for Everyone**
+  (2019 article, [deobald.ca/essays](https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/))
+
+- **Transparency in Work**
+  (2017 talk, [CreativeMornings](https://www.youtube.com/watch?v=0sUMbqdHhME))
+
+- **Vipassana for Hackers**
+  (2016 talk, [HasGeek TV](https://www.youtube.com/watch?v=1BWYqHbF00c))
+
+- **Two Years Wiser: The Nilenso Experiment**
+  (2015 talk, [The Fifth Elephant](https://www.youtube.com/watch?v=b7K3E1Q_MBk))
+
+- **Clojure is my favourite Ruby**
+  (2012 talk, [RubyConf India](https://www.youtube.com/watch?v=PCdEbUBk6a0))
