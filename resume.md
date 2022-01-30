@@ -1,7 +1,8 @@
-Steven Deobald
-======
+---
+title: Steven Deobald
+---
 
-#### [ [www.deobald.ca](https://www.deobald.ca) ] . [ steven@deobald.ca ] . [ +1 707 336 2253 ] . [ `@deobald` ]
+###### [ [www.deobald.ca](https://www.deobald.ca) ] . [ steven@deobald.ca ] . [ +1 707 336 2253 ] . [ `@deobald` ]
 
 Experience
 ----------
@@ -16,22 +17,23 @@ Experience
 
 **Founder, Nilenso Software** (2012-2018, India)
 
-- _Marketing, branding, sales, recruitment, product management, project management, mentorship_
+- _Marketing, sales, recruitment, product leadership, project management, mentorship_
 - Wrote and open-sourced first international worker co-operative constitution in India
 - Drafted and implemented menstrual leave policy
 
 **Product Head, C42 Engineering** (2011-2012, India)
 
-- _Product leadership, mentorship_
+- _Product management, mentorship_
 - Designed and built [rubymonk.com](https://rubymonk.com)
 
 **Tech Lead, DRW Holdings** (2008-2011, USA)
 
 - _Systems architecture in Java, JRuby, and Clojure_
 
-**Senior Developer, ThoughtWorks** (2005-2008, Canada/USA/UK/India)
+**Senior Developer, ThoughtWorks** (2005-2008, Canada / USA / UK / India)
 
-- _Development in C#, Java, and Ruby as Tech Lead, mentorship, architecture, business analysis_
+- _Development in C#, Java, and Ruby as Tech Lead, mentorship, architecture, analysis_
+- Scoped and sold projects at inception; built and maintained systems through delivery
 
 **Senior Developer, Adxstudio** (2004-2005, Canada)
 
@@ -40,9 +42,9 @@ Experience
 Education
 ---------
 
-**B.Sc.Hons.Coop. in Computer Science, University of Regina**
+**B.Sc.Hons.Coop. in Computer Science, University of Regina** (2005)
 
-- Graduated with Honours
+- Graduated with Honours in the Co-operative Education Program
 - Participated in five work terms across government, private sector, and cooperative sector
 - Held Top Secret Canadian government security clearance
 
@@ -57,23 +59,23 @@ Activities and Interests
 Projects
 --------
 
-- **Pariyatti Digital Library and Mobile App**
-  (ongoing open source, [github.com/pariyatti](https://github.com/pariyatti/))
+**Pariyatti Digital Library and Mobile App**
+(ongoing open source, [github.com/pariyatti](https://github.com/pariyatti/))
 
-- **Vipassana for Hackers**
-  (ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
+**Vipassana for Hackers**
+(ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
 
-- **Ethical Software for Everyone**
-  (2019 article, [deobald.ca/essays](https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/))
+**Ethical Software for Everyone**
+(2019 article, [deobald.ca/essays](https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/))
 
-- **Transparency in Work**
-  (2017 talk, [CreativeMornings](https://www.youtube.com/watch?v=0sUMbqdHhME))
+**Transparency in Work**
+(2017 talk, [CreativeMornings](https://www.youtube.com/watch?v=0sUMbqdHhME))
 
-- **Vipassana for Hackers**
-  (2016 talk, [HasGeek TV](https://www.youtube.com/watch?v=1BWYqHbF00c))
+**Vipassana for Hackers**
+(2016 talk, [HasGeek TV](https://www.youtube.com/watch?v=1BWYqHbF00c))
 
-- **Two Years Wiser: The Nilenso Experiment**
-  (2015 talk, [The Fifth Elephant](https://www.youtube.com/watch?v=b7K3E1Q_MBk))
+**Two Years Wiser: The Nilenso Experiment**
+(2015 talk, [The Fifth Elephant](https://www.youtube.com/watch?v=b7K3E1Q_MBk))
 
-- **Clojure is my favourite Ruby**
-  (2012 talk, [RubyConf India](https://www.youtube.com/watch?v=PCdEbUBk6a0))
+**Clojure is my favourite Ruby**
+(2012 talk, [RubyConf India](https://www.youtube.com/watch?v=PCdEbUBk6a0))
