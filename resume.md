@@ -7,13 +7,13 @@ title: Steven Deobald
 Experience
 ----------
 
-**Writer, XTDB Ltd.** (2020-present, Remote)
+**Product Manager, XTDB Ltd.** (2020-present, Remote)
 
-- _Market discovery, open source product prioritization_
+- _Market research, product/project/engineering management, open source product prioritization_
 
 **Volunteer, Pariyatti** (2019-present, Remote)
 
-- _Open source project management, software architecture R&D_
+- _Open source project management, software architecture R&D, Clojure/Flutter development_
 
 **Founder, Nilenso Software** (2012-2018, India)
 
@@ -28,11 +28,11 @@ Experience
 
 **Tech Lead, DRW Holdings** (2008-2011, USA)
 
-- _Systems architecture in Java, JRuby, and Clojure_
+- _Systems architecture in C#, Java, JRuby, and Clojure_
 
-**Senior Developer, ThoughtWorks** (2005-2008, Canada / USA / UK / India)
+**Tech Lead, ThoughtWorks** (2005-2008, Canada / USA / UK / India)
 
-- _Development in C#, Java, and Ruby as Tech Lead, mentorship, architecture, analysis_
+- _Development in C#, Java, and Ruby as Tech Lead; mentorship, architecture, analysis_
 - Scoped and sold projects at inception; built and maintained systems through delivery
 
 **Senior Developer, Adxstudio** (2004-2005, Canada)
@@ -51,8 +51,8 @@ Education
 Activities and Interests
 ------------------------
 
-- Vipassana Meditation and Research
-- Open source software development
+- Vipassana meditation and research
+- Third wave commercial open source software development
 - Bicycling, running, swimming, yoga, skiing, kayaking, canoeing, backpacking, Kempo
 - Off-grid housing, sustainable construction, waste management
 
@@ -79,3 +79,4 @@ Projects
 
 **Clojure is my favourite Ruby**
 (2012 talk, [RubyConf India](https://www.youtube.com/watch?v=PCdEbUBk6a0))
+
