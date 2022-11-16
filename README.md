@@ -1,4 +1,12 @@
 # markdown-resume
+
+## Custom Notes
+
+This is a resume I wrote for a 2nd Wave commercial open source EM role.
+It doesn't really reflect my work history outside of that particular lens. -steven
+
+## Concept
+
 The simplest possible resume workflow from markdown source.
 
 Changing the content or styling of a resume or CV is a relatively common event that

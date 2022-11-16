@@ -7,9 +7,12 @@ title: Steven Deobald
 Experience
 ----------
 
-**Product Manager, XTDB Ltd.** (2020-present, Remote)
+**Open Source Product Advisor, XTDB Ltd.** (2020-2023, Remote)
 
-- _Market research, product/project/engineering management, open source product prioritization_
+- _Market research, product/project/engineering management, funding, legal_
+- Championed the GNU Affero General Public License, v3.0
+- Researched and successfully pitched an open source, serverless business model
+- Led branding, website, and social media efforts
 
 **Volunteer, Pariyatti** (2019-present, Remote)
 
