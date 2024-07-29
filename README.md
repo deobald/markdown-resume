@@ -22,6 +22,14 @@ brew install pandoc
 brew install wkhtmltopdf
 ```
 
+Linux:
+
+```sh
+sudo apt install pandoc
+sudo apt install xfonts-75dpi  # needed for xkhtmltopdf:
+https://wkhtmltopdf.org/downloads.html
+```
+
 ## Original junk:
 
 **Still trying to decide if this is the workflow for you? Here are the original markdown files and the three output files for your persual**:

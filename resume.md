@@ -7,36 +7,51 @@ title: Steven Deobald
 Experience
 ----------
 
-**Open Source Product Advisor, XTDB Ltd.** (2020-2023, Remote)
+**Founder, Endatabas** (2023-2024, Canada)
+
+- _Product management, funding, pre-sales_
+- Defined product UX, APIs
+- Defined brand; conducted all marketing ([endatabas.com](https://www.endatabas.com))
+- Wrote all documentation
+
+**Product Manager, XTDB** (2020-2023, Remote)
 
 - _Market research, product/project/engineering management, funding, legal_
-- Championed the GNU Affero General Public License, v3.0
 - Researched and successfully pitched an open source, serverless business model
-- Led branding, website, and social media efforts
+- Led branding, website, documentation, and social media ([xtdb.com](https://xtdb.com))
+- Managed packaging and distribution of software
 
 **Volunteer, Pariyatti** (2019-present, Remote)
 
-- _Open source project management, software architecture R&D, Clojure/Flutter development_
+- _Open source project management, software architecture R&D, Rails/Clojure/Flutter development_
+- Complete development of Rails backend ([github.com/pariyatti/kosa2](https://github.com/pariyatti/kosa2))
+- Maintenance of Flutter mobile apps ([github.com/pariyatti/mobile-app](https://github.com/pariyatti/mobile-app))
+- Managing other volunteers across the project
 
 **Founder, Nilenso Software** (2012-2018, India)
 
 - _Marketing, sales, recruitment, product leadership, project management, mentorship_
+- Championed worker-owned, co-operative model
 - Wrote and open-sourced first international worker co-operative constitution in India
 - Drafted and implemented menstrual leave policy
+- Built company to $1m ARR
 
-**Product Head, C42 Engineering** (2011-2012, India)
+**CPO, C42 Engineering** (2011-2012, India)
 
 - _Product management, mentorship_
-- Designed and built [rubymonk.com](https://rubymonk.com)
+- Designed and built [rubymonk.com](https://rubymonk.com) in Rails
 
 **Tech Lead, DRW Holdings** (2008-2011, USA)
 
 - _Systems architecture in C#, Java, JRuby, and Clojure_
+- Helped champion re-architecture of entire trade capture and positions management platform
+- Led development of reference data system, from start to finish, in JRuby and Rails
 
 **Tech Lead, ThoughtWorks** (2005-2008, Canada / USA / UK / India)
 
-- _Development in C#, Java, and Ruby as Tech Lead; mentorship, architecture, analysis_
-- Scoped and sold projects at inception; built and maintained systems through delivery
+- _Development in C#, Java, and Ruby; mentorship, architecture, analysis_
+- Scoped and sold projects at inception
+- Built and maintained systems through delivery
 
 **Senior Developer, Adxstudio** (2004-2005, Canada)
 
@@ -54,10 +69,10 @@ Education
 Activities and Interests
 ------------------------
 
-- Vipassana meditation and research
-- Third wave commercial open source software development
+- Vipassana meditation and research (I have taken multiple month-long courses.)
+- Off-grid and sustainable construction, waste management (I started a forest-preservation cooperative which owns a 20-acre forest lot with off-grid construction experiments on it.)
+- Third wave open source
 - Bicycling, running, swimming, yoga, skiing, kayaking, canoeing, backpacking, Kempo
-- Off-grid housing, sustainable construction, waste management
 
 Projects
 --------
@@ -82,4 +97,3 @@ Projects
 
 **Clojure is my favourite Ruby**
 (2012 talk, [RubyConf India](https://www.youtube.com/watch?v=PCdEbUBk6a0))
-
