@@ -11,21 +11,21 @@ Experience
 
 - _Product management, funding, pre-sales_
 - Defined product UX, APIs
-- Defined brand; conducted all marketing ([endatabas.com](https://www.endatabas.com))
-- Wrote all documentation
+- Defined brand; conducted all marketing - [endatabas.com](https://www.endatabas.com)
+- Wrote all documentation, pitch decks, memos
 
 **Product Manager, XTDB** (2020-2023, Remote)
 
 - _Market research, product/project/engineering management, funding, legal_
 - Researched and successfully pitched an open source, serverless business model
-- Led branding, website, documentation, and social media ([xtdb.com](https://xtdb.com))
+- Led branding, website, documentation, and social media - [xtdb.com](https://xtdb.com)
 - Managed packaging and distribution of software
 
 **Volunteer, Pariyatti** (2019-present, Remote)
 
-- _Open source project management, software architecture R&D, Rails/Clojure/Flutter development_
-- Complete development of Rails backend ([github.com/pariyatti/kosa2](https://github.com/pariyatti/kosa2))
-- Maintenance of Flutter mobile apps ([github.com/pariyatti/mobile-app](https://github.com/pariyatti/mobile-app))
+- _Open source project management, R&D, architecture, Rails/Clojure/Flutter development_
+- Complete development of Rails backend (GitHub: [pariyatti/kosa2](https://github.com/pariyatti/kosa2))
+- Maintenance of Flutter mobile apps (GitHub: [pariyatti/mobile-app](https://github.com/pariyatti/mobile-app))
 - Managing other volunteers across the project
 
 **Founder, Nilenso Software** (2012-2018, India)
@@ -63,14 +63,16 @@ Education
 **B.Sc.Hons.Coop. in Computer Science, University of Regina** (2005)
 
 - Graduated with Honours in the Co-operative Education Program
-- Participated in five work terms across government, private sector, and cooperative sector
+- Participated in five work terms across government, private, and cooperative sectors
 - Held Top Secret Canadian government security clearance
+
+<br/>
 
 Activities and Interests
 ------------------------
 
 - Vipassana meditation and research (I have taken multiple month-long courses.)
-- Off-grid and sustainable construction, waste management (I started a forest-preservation cooperative which owns a 20-acre forest lot with off-grid construction experiments on it.)
+- Off-grid and sustainable construction, waste management (I started a forest-preservation society which owns a 20-acre forest lot with off-grid construction experiments on it.)
 - Third wave open source
 - Bicycling, running, swimming, yoga, skiing, kayaking, canoeing, backpacking, Kempo
 
@@ -82,6 +84,18 @@ Projects
 
 **Vipassana for Hackers**
 (ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
+
+**Democracy at Work: The Case Study of Nilenso**&nbsp;
+(2023 podcast, [WorkWise](https://www.workwisepod.com/episodes/democracyatwork))
+
+**Trucks, Tubes, and Truth**
+(2022 article, [deobald.ca/essays](https://www.deobald.ca/essays/2022-06-21-trucks-tubes-truth/))
+
+**Blockchain Without the Crypto**
+(2021 article, [deobald.ca/essays](https://www.deobald.ca/essays/2021-11-11-blockchain-without-crypto/))
+
+**The Strength of the Record**
+(2021 article, [deobald.ca/essays](https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/))
 
 **Ethical Software for Everyone**
 (2019 article, [deobald.ca/essays](https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/))
