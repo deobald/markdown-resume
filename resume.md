@@ -7,10 +7,10 @@ title: Steven Deobald
 Experience
 ----------
 
-**Founder, Endatabas** (2023-2024, Canada)
+**Founder and CEO, Endatabas** (2023-2024, Canada)
 
 - _Product management, funding, pre-sales_
-- Defined product UX, APIs
+- Defined product UX, APIs, open source license
 - Defined brand; conducted all marketing - [endatabas.com](https://www.endatabas.com)
 - Wrote all documentation, pitch decks, memos
 
@@ -28,24 +28,25 @@ Experience
 - Maintenance of Flutter mobile apps (GitHub: [pariyatti/mobile-app](https://github.com/pariyatti/mobile-app))
 - Managing other volunteers across the project
 
-**Founder, Nilenso Software** (2012-2018, India)
+**Founder and CEO, Nilenso Software** (2012-2018, India)
 
 - _Marketing, sales, recruitment, product leadership, project management, mentorship_
 - Championed worker-owned, co-operative model
 - Wrote and open-sourced first international worker co-operative constitution in India
 - Drafted and implemented menstrual leave policy
+- Trained all staff in Clojure and functional programming on the JVM
 - Built company to $1m ARR
 
-**CPO, C42 Engineering** (2011-2012, India)
+**Chief Product Officer, C42 Engineering** (2011-2012, India)
 
-- _Product management, mentorship_
-- Designed and built [rubymonk.com](https://rubymonk.com) in Rails
+- _Product management, mentorship, architecture_
+- Designed and built [rubymonk.com](https://rubymonk.com), including a self-sandboxing Ruby interpreter
 
 **Tech Lead, DRW Holdings** (2008-2011, USA)
 
-- _Systems architecture in C#, Java, JRuby, and Clojure_
-- Helped champion re-architecture of entire trade capture and positions management platform
-- Led development of reference data system, from start to finish, in JRuby and Rails
+- _Systems architecture in C#, Java, JRuby, Clojure, and Rails_
+- Helped champion re-architecture of entire trade and positions management platform
+- Led development of reference data system, from start to finish, in JRuby
 
 **Tech Lead, ThoughtWorks** (2005-2008, Canada / USA / UK / India)
 
@@ -55,7 +56,7 @@ Experience
 
 **Senior Developer, Adxstudio** (2004-2005, Canada)
 
-- _Systems design and implementation in C# and .NET_
+- _CMS systems design and implementation in C# and .NET_
 
 Education
 ---------
@@ -64,7 +65,7 @@ Education
 
 - Graduated with Honours in the Co-operative Education Program
 - Participated in five work terms across government, private, and cooperative sectors
-- Held Top Secret Canadian government security clearance
+- Held Top Secret security clearance with Canadian government
 
 <br/>
 
@@ -84,6 +85,9 @@ Projects
 
 **Vipassana for Hackers**
 (ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
+
+**Third Wave (Commercial) Open Source**
+(2024 article, [deobald.ca/essays](https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/))
 
 **Democracy at Work: The Case Study of Nilenso**&nbsp;
 (2023 podcast, [WorkWise](https://www.workwisepod.com/episodes/democracyatwork))
