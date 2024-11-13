@@ -2,7 +2,7 @@
 title: Steven Deobald
 ---
 
-###### [ [www.deobald.ca](https://www.deobald.ca) ] . [ steven@deobald.ca ] . [ +1 707 336 2253 ] . [ `@deobald` ]
+###### [ [www.deobald.ca](https://www.deobald.ca) ] . [ steven@deobald.ca ] . [ +1 707 DEO BALD ] . [ `@deobald` ]
 
 Experience
 ----------
@@ -11,6 +11,7 @@ Experience
 
 - _Product management, funding, pre-sales_
 - Defined product UX, APIs, open source license
+- Validated and prioritized architecture, reviewed all code
 - Defined brand; conducted all marketing - [endatabas.com](https://www.endatabas.com)
 - Wrote all documentation, pitch decks, memos
 
@@ -26,7 +27,8 @@ Experience
 - _Open source project management, R&D, architecture, Rails/Clojure/Flutter development_
 - Complete development of Rails backend (GitHub: [pariyatti/kosa2](https://github.com/pariyatti/kosa2))
 - Maintenance of Flutter mobile apps (GitHub: [pariyatti/mobile-app](https://github.com/pariyatti/mobile-app))
-- Managing other volunteers across the project
+- Prioritization of projects and tasks
+- Managing staff and volunteers across the team
 
 **Founder and CEO, Nilenso Software** (2012-2018, India)
 
@@ -35,7 +37,7 @@ Experience
 - Wrote and open-sourced first international worker co-operative constitution in India
 - Drafted and implemented menstrual leave policy
 - Trained all staff in Clojure and functional programming on the JVM
-- Built company to $1m ARR
+- Built company to ₹15cr ARR
 
 **Chief Product Officer, C42 Engineering** (2011-2012, India)
 
@@ -54,9 +56,11 @@ Experience
 - Scoped and sold projects at inception
 - Built and maintained systems through delivery
 
-**Senior Developer, Adxstudio** (2004-2005, Canada)
+**Senior Developer, Adxstudio (Acq. Microsoft)** (2004-2005, Canada)
 
 - _CMS systems design and implementation in C# and .NET_
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 Education
 ---------
@@ -64,16 +68,14 @@ Education
 **B.Sc.Hons.Coop. in Computer Science, University of Regina** (2005)
 
 - Graduated with Honours in the Co-operative Education Program
-- Participated in five work terms across government, private, and cooperative sectors
+- Participated in five work terms across public, private, and cooperative sectors
 - Held Top Secret security clearance with Canadian government
-
-<br/>
 
 Activities and Interests
 ------------------------
 
-- Vipassana meditation and research (I have taken multiple month-long courses.)
-- Off-grid and sustainable construction, waste management (I started a forest-preservation society which owns a 20-acre forest lot with off-grid construction experiments on it.)
+- Vipassana meditation and research
+- Off-grid and sustainable construction, waste management
 - Third wave open source
 - Bicycling, running, swimming, yoga, skiing, kayaking, canoeing, backpacking, Kempo
 
