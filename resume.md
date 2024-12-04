@@ -10,7 +10,7 @@ Experience
 **Founder and CEO, Endatabas** (2023-2024, Canada)
 
 - _Product management, funding, pre-sales_
-- Defined product UX, APIs, open source license
+- Defined product UX, APIs, SQL dialect, open source license & business model
 - Validated and prioritized architecture, reviewed all code
 - Defined brand; conducted all marketing - [endatabas.com](https://www.endatabas.com)
 - Wrote all documentation, pitch decks, memos
@@ -44,9 +44,9 @@ Experience
 - _Product management, mentorship, architecture_
 - Designed and built [rubymonk.com](https://rubymonk.com), including a self-sandboxing Ruby interpreter
 
-**Tech Lead, DRW Holdings** (2008-2011, USA)
+**Tech Lead, DRW Trading** (2008-2011, USA)
 
-- _Systems architecture in C#, Java, JRuby, Clojure, and Rails_
+- _Systems architecture in C#, Java, Ruby, Clojure, and Rails_
 - Helped champion re-architecture of entire trade and positions management platform
 - Led development of reference data system, from start to finish, in JRuby
 
