@@ -88,8 +88,11 @@ Projects
 **Vipassana for Hackers**
 (ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
 
-**Third Wave (Commercial) Open Source**
+**Third Wave Open Source**
 (2024 article, [deobald.ca/essays](https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/))
+
+**The Grift, the Grind, and the ग्रंथ**&nbsp;
+(2024 keynote, [IN/Clojure](https://www.youtube.com/watch?v=VrlWxYbnnqM))
 
 **Democracy at Work: The Case Study of Nilenso**&nbsp;
 (2023 podcast, [WorkWise](https://www.workwisepod.com/episodes/democracyatwork))
@@ -113,7 +116,7 @@ Projects
 (2016 talk, [HasGeek TV](https://www.youtube.com/watch?v=1BWYqHbF00c))
 
 **Two Years Wiser: The Nilenso Experiment**
-(2015 talk, [The Fifth Elephant](https://www.youtube.com/watch?v=b7K3E1Q_MBk))
+(2015 keynote, [The Fifth Elephant](https://www.youtube.com/watch?v=b7K3E1Q_MBk))
 
 **Clojure is my favourite Ruby**
 (2012 talk, [RubyConf India](https://www.youtube.com/watch?v=PCdEbUBk6a0))
