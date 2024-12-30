@@ -1,6 +1,6 @@
 
 build:
-	pandoc -o resume.html --self-contained --css=file://$(abspath resume-css-stylesheet.css) resume.md
+	pandoc -o resume.html --embed-resources --standalone --css=file://$(abspath resume-css-stylesheet.css) resume.md
 	wkhtmltopdf resume.html resume.pdf
 
 

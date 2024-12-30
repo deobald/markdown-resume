@@ -11,16 +11,18 @@ Experience
 
 - _Product management, funding, pre-sales_
 - Defined product UX, APIs, SQL dialect, open source license & business model
-- Validated and prioritized architecture, reviewed all code
-- Defined brand; conducted all marketing - [endatabas.com](https://www.endatabas.com)
-- Wrote all documentation, pitch decks, memos
+- Prioritized features, validated architecture, reviewed all code
+- Defined brand and marketing - [endatabas.com](https://www.endatabas.com)
+- Created all investment memos, pitch decks - [pitch.endatabas.com](https://pitch.endatabas.com/)
+- Wrote all documentation - [docs.endatabas.com](https://docs.endatabas.com/)
 
-**Product Manager, XTDB** (2020-2023, Remote)
+**Product Consultant, XTDB** (2020-2023, Remote)
 
 - _Market research, product/project/engineering management, funding, legal_
-- Researched and successfully pitched an open source, serverless business model
-- Led branding, website, documentation, and social media - [xtdb.com](https://xtdb.com)
-- Managed packaging and distribution of software
+- Researched and successfully pitched open source, serverless business model
+- Managed developers and artists for branding, website, documentation - [xtdb.com](https://xtdb.com)
+- Managed team packaging and distributing software
+- Wrote all expository technical essays on immutable and temporal databases
 
 **Volunteer, Pariyatti** (2019-present, Remote)
 
@@ -33,22 +35,22 @@ Experience
 **Founder and CEO, Nilenso Software** (2012-2018, India)
 
 - _Marketing, sales, recruitment, product leadership, project management, mentorship_
-- Championed worker-owned, co-operative model
-- Wrote and open-sourced first international worker co-operative constitution in India
+- Championed worker-owned, cooperative model
+- Wrote and open-sourced first international worker cooperative constitution in India
 - Drafted and implemented menstrual leave policy
 - Trained all staff in Clojure and functional programming on the JVM
-- Built company to ₹15cr ARR
+- Built company to ₹15cr ARR, with 20 staff members
 
 **Chief Product Officer, C42 Engineering** (2011-2012, India)
 
 - _Product management, mentorship, architecture_
-- Designed and built [rubymonk.com](https://rubymonk.com), including a self-sandboxing Ruby interpreter
+- Managed team building [rubymonk.com](https://rubymonk.com), including a self-sandboxing Ruby interpreter
 
 **Tech Lead, DRW Trading** (2008-2011, USA)
 
 - _Systems architecture in C#, Java, Ruby, Clojure, and Rails_
 - Helped champion re-architecture of entire trade and positions management platform
-- Led development of reference data system, from start to finish, in JRuby
+- Led development of instrument reference data system in JRuby
 
 **Tech Lead, ThoughtWorks** (2005-2008, Canada / USA / UK / India)
 
@@ -67,7 +69,7 @@ Education
 
 **B.Sc.Hons.Coop. in Computer Science, University of Regina** (2005)
 
-- Graduated with Honours in the Co-operative Education Program
+- Graduated with Honours in the Cooperative Education Program
 - Participated in five work terms across public, private, and cooperative sectors
 - Held Top Secret security clearance with Canadian government
 
@@ -114,6 +116,9 @@ Projects
 
 **Vipassana for Hackers**
 (2016 talk, [HasGeek TV](https://www.youtube.com/watch?v=1BWYqHbF00c))
+
+**Nilenso Cooperative Agreement (CC0-1.0)**
+(2016 legal template, [github.com/nilenso](https://github.com/nilenso/cooperative-agreement))
 
 **Two Years Wiser: The Nilenso Experiment**
 (2015 keynote, [The Fifth Elephant](https://www.youtube.com/watch?v=b7K3E1Q_MBk))
