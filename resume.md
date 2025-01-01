@@ -24,11 +24,11 @@ Experience
 - Managed team packaging and distributing software
 - Wrote all expository technical essays on immutable and temporal databases
 
-**Volunteer, Pariyatti** (2019-present, Remote)
+**Engineering Manager, Pariyatti** (2019-present, Volunteer, Remote)
 
-- _Open source project management, R&D, architecture, Rails/Clojure/Flutter development_
-- Complete development of Rails backend (GitHub: [pariyatti/kosa2](https://github.com/pariyatti/kosa2))
-- Maintenance of Flutter mobile apps (GitHub: [pariyatti/mobile-app](https://github.com/pariyatti/mobile-app))
+- _Open source project & engineering management, R&D, architecture_
+- Complete development of Clojure and Rails backends (GitHub: [pariyatti/kosa2](https://github.com/pariyatti/kosa2))
+- Maintenance of Flutter (Dart) mobile apps (GitHub: [pariyatti/mobile-app](https://github.com/pariyatti/mobile-app))
 - Prioritization of projects and tasks
 - Managing staff and volunteers across the team
 
@@ -76,10 +76,11 @@ Education
 Activities and Interests
 ------------------------
 
-- Vipassana meditation and research
-- Off-grid and sustainable construction, waste management
 - Third wave open source
-- Bicycling, running, swimming, yoga, skiing, kayaking, canoeing, backpacking, Kempo
+- Vipassana meditation
+- Pāli, Sanskrit, Hindi
+- Off-grid solar, construction, waste management
+- Swimming, cycling, running, yoga, kayaking, canoeing, backpacking, kempo, skiing
 
 Projects
 --------
@@ -90,8 +91,11 @@ Projects
 **Vipassana for Hackers**
 (ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
 
+**Optimistic Computing**
+(2024 essay, [deobald.ca/essays](https://www.deobald.ca/essays/2024-12-09-optimistic-computing/))
+
 **Third Wave Open Source**
-(2024 article, [deobald.ca/essays](https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/))
+(2024 essay, [deobald.ca/essays](https://www.deobald.ca/essays/2024-08-13-third-wave-commercial-open-source/))
 
 **The Grift, the Grind, and the ग्रंथ**&nbsp;
 (2024 keynote, [IN/Clojure](https://www.youtube.com/watch?v=VrlWxYbnnqM))
@@ -100,16 +104,16 @@ Projects
 (2023 podcast, [WorkWise](https://www.workwisepod.com/episodes/democracyatwork))
 
 **Trucks, Tubes, and Truth**
-(2022 article, [deobald.ca/essays](https://www.deobald.ca/essays/2022-06-21-trucks-tubes-truth/))
+(2022 essay, [deobald.ca/essays](https://www.deobald.ca/essays/2022-06-21-trucks-tubes-truth/))
 
 **Blockchain Without the Crypto**
-(2021 article, [deobald.ca/essays](https://www.deobald.ca/essays/2021-11-11-blockchain-without-crypto/))
+(2021 essay, [deobald.ca/essays](https://www.deobald.ca/essays/2021-11-11-blockchain-without-crypto/))
 
 **The Strength of the Record**
-(2021 article, [deobald.ca/essays](https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/))
+(2021 essay, [deobald.ca/essays](https://www.deobald.ca/essays/2021-03-28-strength-of-the-record/))
 
 **Ethical Software for Everyone**
-(2019 article, [deobald.ca/essays](https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/))
+(2019 essay, [deobald.ca/essays](https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/))
 
 **Transparency in Work**
 (2017 talk, [CreativeMornings](https://www.youtube.com/watch?v=0sUMbqdHhME))
