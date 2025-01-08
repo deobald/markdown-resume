@@ -88,6 +88,9 @@ Projects
 **Pariyatti Digital Library and Mobile App**
 (ongoing open source, [github.com/pariyatti](https://github.com/pariyatti/))
 
+**Atlantic Canada Vipassana Meditation**
+(ongoing non-profit, [atlantic.ca.dhamma.org](https://atlantic.ca.dhamma.org))
+
 **Vipassana for Hackers**
 (ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
 
