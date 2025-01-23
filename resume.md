@@ -39,6 +39,7 @@ Experience
 - Wrote and open-sourced first international worker cooperative constitution in India
 - Drafted and implemented menstrual leave policy
 - Trained all staff in Clojure and functional programming on the JVM
+- Engineering Management for Rails and Android teams that built &nbsp;[simple.org](https://simple.org)
 - Built company to ₹15cr ARR, with 20 staff members
 
 **Chief Product Officer, C42 Engineering** (2011-2012, India)
@@ -62,7 +63,7 @@ Experience
 
 - _CMS systems design and implementation in C# and .NET_
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 Education
 ---------
