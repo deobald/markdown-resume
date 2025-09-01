@@ -7,6 +7,15 @@ title: Steven Deobald
 Experience
 ----------
 
+**Executive Director, GNOME Foundation** (2025, Remote)
+
+- community engagement with weekly updates, virtual office hours
+- created completely new donation platform
+- partner and donor outreach, reinvigorating the Advisory Board
+- complete overhaul of spending and financial policy
+- centralized and standardized documentation
+- recruited board members and appointed treasurer
+
 **Founder and CEO, Endatabas** (2023-2024, Canada)
 
 - _Product management, funding, pre-sales_
