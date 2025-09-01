@@ -9,28 +9,25 @@ Experience
 
 **Executive Director, GNOME Foundation** (2025, Remote)
 
-- community engagement with weekly updates, virtual office hours
-- created completely new donation platform
-- partner and donor outreach, reinvigorating the Advisory Board
-- complete overhaul of spending and financial policy
-- centralized and standardized documentation
-- recruited board members and appointed treasurer
+- _Project Management, staff management, community outreach, fiscal policy, recruitment_
+- Created completely new donation platform
+- Partner and donor outreach, reinvigorated the Advisory Board
+- Complete overhaul of fiscal policy, centralized and standardized documentation
+- Recruited board members, appointed treasurer, weekly community outreach
 
 **Founder and CEO, Endatabas** (2023-2024, Canada)
 
 - _Product management, funding, pre-sales_
 - Defined product UX, APIs, SQL dialect, open source license & business model
 - Prioritized features, validated architecture, reviewed all code
-- Defined brand and marketing - [endatabas.com](https://www.endatabas.com)
+- Defined brand and marketing - [endatabas.com](https://www.endatabas.com), [docs.endatabas.com](https://docs.endatabas.com/)
 - Created all investment memos, pitch decks - [pitch.endatabas.com](https://pitch.endatabas.com/)
-- Wrote all documentation - [docs.endatabas.com](https://docs.endatabas.com/)
 
 **Product Consultant, XTDB** (2020-2023, Remote)
 
 - _Market research, product/project/engineering management, funding, legal_
 - Researched and successfully pitched open source, serverless business model
 - Managed developers and artists for branding, website, documentation - [xtdb.com](https://xtdb.com)
-- Managed team packaging and distributing software
 - Wrote all expository technical essays on immutable and temporal databases
 
 **Engineering Manager, Pariyatti** (2019-present, Volunteer, Remote)
@@ -38,8 +35,7 @@ Experience
 - _Open source project & engineering management, R&D, architecture_
 - Complete development of Clojure and Rails backends (GitHub: [pariyatti/kosa2](https://github.com/pariyatti/kosa2))
 - Maintenance of Flutter (Dart) mobile apps (GitHub: [pariyatti/mobile-app](https://github.com/pariyatti/mobile-app))
-- Prioritization of projects and tasks
-- Managing staff and volunteers across the team
+- Prioritization of projects and tasks, managing staff and volunteers
 
 **Founder and CEO, Nilenso Software** (2012-2018, India)
 
@@ -65,14 +61,13 @@ Experience
 **Tech Lead, ThoughtWorks** (2005-2008, Canada / USA / UK / India)
 
 - _Development in C#, Java, and Ruby; mentorship, architecture, analysis_
-- Scoped and sold projects at inception
-- Built and maintained systems through delivery
+- Scoped, sold, built, and maintained projects directly and as project manager
 
 **Senior Developer, Adxstudio (Acq. Microsoft)** (2004-2005, Canada)
 
 - _CMS systems design and implementation in C# and .NET_
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 Education
 ---------
@@ -90,7 +85,7 @@ Activities and Interests
 - Vipassana meditation
 - Pāli, Sanskrit, Hindi
 - Off-grid solar, construction, waste management
-- Swimming, cycling, running, yoga, kayaking, canoeing, backpacking, kempo, skiing
+- Riding bicycles, swimming, running, yoga, kayaking, canoeing, backpacking, skiing
 
 Projects
 --------
@@ -103,6 +98,9 @@ Projects
 
 **Vipassana for Hackers**
 (ongoing papers, [vipassana-for-hackers.org](https://www.vipassana-for-hackers.org/))
+
+**Two Kinds of GNOMEs**
+(2025 keynote, [GUADEC](https://www.youtube.com/live/Z7F3fghCQB4?t=212s))
 
 **Optimistic Computing**
 (2024 essay, [deobald.ca/essays](https://www.deobald.ca/essays/2024-12-09-optimistic-computing/))
