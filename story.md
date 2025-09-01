@@ -87,7 +87,7 @@ Thanks to the joys of the United States healthcare system (or lack thereof), I e
 I couldn't program for a few years, so I took on even more of a leadership, mentoring, sales, and hiring/HR role at Nilenso.
 
 Around 2015, an inside joke taken too far led me to start wearing nothing but custom-tailored black suits with white shirts.
-To this day, that's all I wear in public... unless I'm doing yoga or riding a bicycle.
+To this day, that's all I wear in public... unless I'm doing yoga or riding a fixie.
 
 I left in 2018 (as explained below) but Nilenso still exists, it is still owned by its employees, and it remains a very successful and well-regarded company.
 
