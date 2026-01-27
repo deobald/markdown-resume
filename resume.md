@@ -9,10 +9,10 @@ Experience
 
 **Executive Director, GNOME Foundation** (2025, Remote)
 
-- _Project Management, staff management, community outreach, fiscal policy, recruitment_
+- _Project Management, staff management, community outreach, financial policy, recruitment_
 - Created new donation platform, balanced budget YoY recurring
 - Partner and donor outreach, reinvigorated the Advisory Board
-- Complete overhaul of fiscal policy, centralized and standardized documentation
+- Complete overhaul of finances/policy, centralized and standardized documentation
 - Recruited board members, appointed treasurer, weekly community outreach
 
 **Founder and CEO, Endatabas** (2023-2024, Canada)
