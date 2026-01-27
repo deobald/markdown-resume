@@ -26,6 +26,7 @@ Linux:
 
 ```sh
 sudo apt install pandoc
+sudo apt install ttf-mscorefonts-installer
 sudo apt install xfonts-75dpi  # needed for xkhtmltopdf:
 https://wkhtmltopdf.org/downloads.html
 ```

@@ -10,7 +10,7 @@ Experience
 **Executive Director, GNOME Foundation** (2025, Remote)
 
 - _Project Management, staff management, community outreach, fiscal policy, recruitment_
-- Created completely new donation platform
+- Created new donation platform, balanced budget YoY recurring
 - Partner and donor outreach, reinvigorated the Advisory Board
 - Complete overhaul of fiscal policy, centralized and standardized documentation
 - Recruited board members, appointed treasurer, weekly community outreach
@@ -67,7 +67,7 @@ Experience
 
 - _CMS systems design and implementation in C# and .NET_
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 Education
 ---------
