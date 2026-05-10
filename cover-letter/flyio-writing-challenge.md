@@ -2,9 +2,9 @@
 
 ## Meta
 
-The Sprite API docs: https://docs.sprites.dev/api/ ... redirect to https://docs.sprites.dev/api/v0.0.1-rc30/ which currently 404s. In the ticket response below, I'm assuming users handle `SIGTERM`. I couldn't find any specific docs on `HandleSuspend`.
+The Sprite API docs: https://docs.sprites.dev/api/ ... redirect to https://docs.sprites.dev/api/v0.0.1-rc30/ which currently 404s. In the ticket response below, I'm assuming users handle `SIGTERM`. I couldn't find any specific docs for `HandleSuspend`.
 
-For the Community Forum Response, I can't see anything in the Sprite docs that might indicate whether there's a way to check proxy logs. It's possible users aren't given that kind of access to proxies, but there's a possibility the forum user's problem is that their Sprite is perceived unhealthy by the proxy and so the proxy refuses to connect to it. I'd have to speak to a Fly coworker to know how a user could diagnose this.
+For the Community Forum Response, I can't see anything in the Sprite docs that might indicate whether there's a way to check proxy logs. Maybe users aren't given that kind of access to proxies? But there's a possibility the forum user's problem is that their Sprite is perceived unhealthy by the proxy and so the proxy refuses to connect to it. I'd have to speak to a Fly coworker to know how a user could diagnose this.
 
 ## Customer Ticket Response
 
